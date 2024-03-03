@@ -32,10 +32,10 @@ Após seguir esses passos, seu site estático estará hospedado no Amazon S3 e s
 
 Aqui estão algumas capturas de tela do site hospedado pelo CloudFront:
 
-![Página Inicial](C:\Users\pc\OneDrive\Área de Trabalho\page inicial.png)
+![Página Inicial](/files_s3/Page_initial.png)  
 *Página Inicial*
 
-![Página do Blog](C:\Users\pc\OneDrive\Área de Trabalho\blog.png)
+![Página do Blog](/files_s3/blog.png)
 *Página do Blog*
 
 
