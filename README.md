@@ -27,3 +27,16 @@ Para reproduzir este projeto, siga os seguintes passos:
 
 
 Após seguir esses passos, seu site estático estará hospedado no Amazon S3 e será distribuído de forma rápida e segura pelo CloudFront.
+
+## Site Funcionando pelo CloudFront:
+
+Aqui estão algumas capturas de tela do site hospedado pelo CloudFront:
+
+![Página Inicial](caminho/para/captura-de-tela-1.png)
+*Página Inicial*
+
+![Página do Blog](caminho/para/captura-de-tela-2.png)
+*Página do Blog*
+
+
+
